@@ -4676,9 +4676,9 @@ jobs:
             CONFIG_PACKAGE_luci-app-nps=y
             CONFIG_PACKAGE_luci-app-ntpc=y
             CONFIG_PACKAGE_luci-app-ocserv=y
-            CONFIG_PACKAGE_luci-app-olsr=y
-            CONFIG_PACKAGE_luci-app-olsr-services=y
-            CONFIG_PACKAGE_luci-app-olsr-viz=y
+          # CONFIG_PACKAGE_luci-app-olsr=y
+          # CONFIG_PACKAGE_luci-app-olsr-services=y
+          # CONFIG_PACKAGE_luci-app-olsr-viz=y
             CONFIG_PACKAGE_luci-app-openclash=y
             CONFIG_PACKAGE_luci-app-openvpn=y
             CONFIG_PACKAGE_luci-app-openvpn-server=y
@@ -5256,7 +5256,7 @@ jobs:
           # CONFIG_PACKAGE_luci-i18n-olsr-tr is not set
           # CONFIG_PACKAGE_luci-i18n-olsr-uk is not set
           # CONFIG_PACKAGE_luci-i18n-olsr-vi is not set
-            CONFIG_PACKAGE_luci-i18n-olsr-zh-cn=y
+          # CONFIG_PACKAGE_luci-i18n-olsr-zh-cn=y
           # CONFIG_PACKAGE_luci-i18n-olsr-zh-tw is not set
           # CONFIG_PACKAGE_luci-i18n-openvpn-ca is not set
           # CONFIG_PACKAGE_luci-i18n-openvpn-cs is not set
@@ -6290,16 +6290,16 @@ jobs:
           # CONFIG_PACKAGE_mrmctl is not set
             CONFIG_PACKAGE_mwan3=y
           # CONFIG_PACKAGE_nstat is not set
-            CONFIG_PACKAGE_olsrd=y
+          # CONFIG_PACKAGE_olsrd=y
           # CONFIG_PACKAGE_olsrd-mod-arprefresh is not set
           # CONFIG_PACKAGE_olsrd-mod-bmf is not set
           # CONFIG_PACKAGE_olsrd-mod-dot-draw is not set
           # CONFIG_PACKAGE_olsrd-mod-dyn-gw is not set
           # CONFIG_PACKAGE_olsrd-mod-dyn-gw-plain is not set
           # CONFIG_PACKAGE_olsrd-mod-httpinfo is not set
-            CONFIG_PACKAGE_olsrd-mod-jsoninfo=y
+          # CONFIG_PACKAGE_olsrd-mod-jsoninfo=y
           # CONFIG_PACKAGE_olsrd-mod-mdns is not set
-            CONFIG_PACKAGE_olsrd-mod-nameservice=y
+          # CONFIG_PACKAGE_olsrd-mod-nameservice=y
           # CONFIG_PACKAGE_olsrd-mod-netjson is not set
           # CONFIG_PACKAGE_olsrd-mod-p2pd is not set
           # CONFIG_PACKAGE_olsrd-mod-pgraph is not set
@@ -6307,7 +6307,7 @@ jobs:
           # CONFIG_PACKAGE_olsrd-mod-quagga is not set
           # CONFIG_PACKAGE_olsrd-mod-secure is not set
           # CONFIG_PACKAGE_olsrd-mod-sgwdynspeed is not set
-            CONFIG_PACKAGE_olsrd-mod-txtinfo=y
+          # CONFIG_PACKAGE_olsrd-mod-txtinfo=y
           # CONFIG_PACKAGE_olsrd-mod-watchdog is not set
           # CONFIG_PACKAGE_prince is not set
           # CONFIG_PACKAGE_quagga is not set
